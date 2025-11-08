@@ -55,15 +55,7 @@ This is a **Reverse Pitching and Hackathon** focusing on **Smart City solutions*
 ### 3. Smart City Research
 
 **Study these Smart City problem areas:**
-- Traffic management & transportation
-- Waste management
-- Energy efficiency
-- Public safety & emergency response
-- Healthcare accessibility
-- Education technology
-- Citizen engagement
-- Environmental monitoring
-- Urban planning
+
 
 - Poverty         [ lending apps, small investments (stocks), free educational app (interactive or engaging),  ]
 - Climate Change  [ Monitoring and preventing deforestation ]
@@ -73,7 +65,15 @@ This is a **Reverse Pitching and Hackathon** focusing on **Smart City solutions*
 - Cybersecurity   [  ] 
 - Unemployment    [ free educational app (interactive or engaging) [gather data, suggest ung job] ]
 
-
+- Traffic management & transportation
+- Waste management
+- Energy efficiency
+- Public safety & emergency response
+- Healthcare accessibility
+- Education technology
+- Citizen engagement
+- Environmental monitoring
+- Urban planning
 
 
 **API**
